@@ -6,11 +6,11 @@ git checkout exit-brach-name              eka  brach madhun durya branch madhe j
 
 git branch -a              .....all branch list check     * means  live work in this branch
 
- git add .                        ...git add filname(dot for all  files)
+     git add .
 
 git commit -m "description"         description mens  whatever you want
 git  push origin  working-branch-name   ;ex vaishu
 
 git pull origin other-branch-name    "" oter branch madhala data working branch madhe ghene
 
-git log    ........all commits chack
+git log    ........all commits chack   
